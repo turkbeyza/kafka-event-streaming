@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I04+sL29uIY=",
+  "success": true,
+  "projectFilePath": "/Users/beyzaturk/RiderProjects/KafkaECommerceDemo/Order.Producer/Order.Producer.csproj",
+  "expectedPackageFiles": [
+    "/Users/beyzaturk/.nuget/packages/confluent.kafka/2.13.2-rc1/confluent.kafka.2.13.2-rc1.nupkg.sha512",
+    "/Users/beyzaturk/.nuget/packages/librdkafka.redist/2.13.2-rc1/librdkafka.redist.2.13.2-rc1.nupkg.sha512"
+  ],
+  "logs": []
+}
